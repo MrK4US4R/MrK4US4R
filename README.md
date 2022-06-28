@@ -2,12 +2,12 @@
 </i></b></h3>
 <h3 align="center">
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
+  &nbsp; 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp;
   <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 </h3>
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=𝙸+𝙰𝙼+𝙼𝚛.+K4US4R;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Welcome+To+My+GitHub;𝙸+𝙰𝙼+𝙼𝚛.+K4US4R;+𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳;𝚃𝙷𝙰𝙽𝙺+𝚈𝙾𝚄+𝙴𝚅𝙴𝚁𝚈𝙾𝙽𝙴;𝙻𝙾𝚅𝚁+𝚄+𝙰𝙻𝙻+𝙵𝚁𝙸𝙴𝙽𝙳𝚂)](https://git.io/typing-svg)
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/MrK4US4R"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MrK4US4R&theme=monokai"></a>
@@ -23,15 +23,13 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝚛. K4US4R
+- ➪ 𝙽𝙰𝙼𝙴 :- 𝙼𝚛. KAUSAR
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
 - ☞︎︎︎ 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽 :- STUDENT
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
-
-- 👬 𝙵𝚁𝙸𝙴𝙽𝙳𝚂 :- DK TANIM & JISHAN CHOWDHURY & MAMUN MIAH & IFAD IBRAHIM & SAMIR VAU & JONAED AHAMED & R.K RONI & SABBIR HOSSAIN
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -43,7 +41,7 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Kausar Ahamed](https://www.facebook.com/innocent.devil.KAUSAR.143)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 :- [Kausar Ahamed](https://www.facebook.com/MrK4US4R)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -55,11 +53,11 @@
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- [Termux Help-Line BD](https://www.facebook.com/groups/1070433763797159/)
+- ➪ 𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙶𝚁𝚄𝙿 :- [Mr.KAUSAR Termux_Command](https://www.facebook.com/groups/1070433763797159/)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
-- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [DEVIL BOY KAUSAR](https://www.instagram.com/bad.boy.kausar)
+- ➪ 𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼 :- [Mr.KAUSAR](https://www.instagram.com/bad.boy.kausar)
 
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
 
@@ -74,8 +72,8 @@
 <h2><img width="28" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/icons/icon-contact.png" /><i> Connect With Me:</i></h2>
 
 [![Instagram](https://img.shields.io/badge/𝙸𝙽𝚂𝚃𝙰𝙶𝚁𝙰𝙼-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/https://bad.boy.kausar)
-[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/innocent.devil.KAUSAR.143)
-[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/innocent.devil.KAUSAR.143)
+[![Facebook](https://img.shields.io/badge/𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/MrK4US4R)
+[![Messenger](https://img.shields.io/badge/𝙼𝙴𝚂𝚂𝙴𝙽𝙶𝙴𝚁-blue?style=for-the-badge&logo=messenger)](https://m.me/MrK4US4R)
 
 ### ⚙️ &nbsp; 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎 & 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐
 
@@ -115,8 +113,12 @@
 [![Kshitij's github activity graph](https://my-activity-graph-instance.herokuapp.com/graph?username=MrK4US4R&theme=react-dark&area=true&hide_border=true)](https://github.com/MrK4US4R/github-readme-activity-graph)
 
 <a href="https://github.com/MrK4US4R/KAUSAR_TERMUX-BANNER.git"><img title="KAUSAR_TERMUX-BANNER" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=KAUSAR_TERMUX-BANNER&theme=gotham"></a>
-<a href="https://github.com/MrK4US4R/KAUSAR_PRO.git"><img title="KAUSAR_PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=KAUSAR_PRO&theme=gotham"></a>
-<a href="https://github.com/MrK4US4R/Kausar_Tech_BD.git"><img title="Kausar_Tech_BD" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Kausar_Tech_BD&theme=gotham"></a>
-<a href="https://github.com/MrK4US4R/K4US4R-.git"><img title="K4US4R-" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=K4US4R-&theme=gotham"></a>
-<a href="https://github.com/MrK4US4R/Kausar-ok.git"><img title="Kausar-ok" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Kausar-ok&theme=gotham"></a>
-<a href="https://github.com/MrK4US4R/Old-id-clone.git"><img title="Old-id-clone" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Old-id-clone&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/DECOMPILE_STORE.git"><img title="DECOMPILE_STORE" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=DECOMPILE_STORE&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/BYPASS_STORE.git"><img title="BYPASS_STORE" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=BYPASS_STORE&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/Fuck_AKING.git"><img title="Fuck_AKING" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Fuck_AKING&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/Mr_KAUSAR-PRO.git"><img title="Mr_KAUSAR-PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Mr_KAUSAR-PRO&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/Fuck_SSB.git"><img title="Fuck_SSB" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Fuck_SSB&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/CRACK_PRO.git"><img title="CRACK_PRO" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=CRACK_PRO&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/Mr_K4US4R-OK.git"><img title="Mr_K4US4R-OK" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Mr_K4US4R-OK&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/Mr_KT-OK.git"><img title="Mr_KT-OK" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Mr_KT-OK&theme=gotham"></a>
+<a href="https://github.com/MrK4US4R/Decrypt_Encrypt.git"><img title="Decrypt_Encrypt" src="https://github-readme-stats.vercel.app/api/pin/?username=MrK4US4R&repo=Decrypt_Encrypt&theme=gotham"></a>
