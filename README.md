@@ -6,6 +6,8 @@
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 GitHub 𝙿𝚁𝙾𝙵𝙸𝙻𝙴&nbsp; <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
+[![facebook_page](https://img.shields.io/badge/facebook-PAGE:_Mr_K4US4R-lightgreen.svg?style=for-the-badge&logo=python.svg)](https://www.facebook.com/5G.GANGSTER.KAUSAR)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=25&color=30FF40&background=000000&center=true&vCenter=true&width=360&height=60&lines=Hello+World%2C+I'm+MrKAUSAR+Here+🤙;𝙸𝚃'𝚜+𝙽𝙾𝚃+𝙰+𝙹𝚄𝚂𝚃+𝙽𝙰𝙼𝙴+𝙱𝚁𝙾+🥱;𝙸𝚃'𝚜+𝙰+𝙱𝚁𝙰𝙽𝙳+🔥;Respect+Mr.KAUSAR+🥀;Today+I+Will+Tell+You+😇;Please+Follow+My+GitHub+🙏;Thanks+My+All+Friend+🤙+🥰)](https://git.io/typing-svg)
 
 <img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
